@@ -49,7 +49,7 @@
 
 | 变量名 | 描述 | 示例 |
 |--------|------|-------|
-| `REPOSITORY` | 您的GitHub仓库路径 | yourusername/deepseek-search-agent |
+| `REPOSITORY` | 您的GitHub仓库路径 | 6uu1/deepseek-search-agent |
 | `GITHUB_TOKEN` | GitHub个人访问令牌 | ghp_xxxxxxxxxxxx |
 
 注意：这些环境变量会被安全地存储，不会暴露在前端代码中。

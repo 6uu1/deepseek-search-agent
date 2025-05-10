@@ -2,7 +2,7 @@
 
 基于GitHub Actions运行DeepSeek R1推理模型的搜索智能体，显示完整的搜索和思考过程。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fdeepseek-search-agent&env=REPOSITORY,GITHUB_TOKEN&project-name=deepseek-search-agent&repository-name=deepseek-search-agent)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F6uu1%2Fdeepseek-search-agent&env=REPOSITORY,GITHUB_TOKEN&project-name=deepseek-search-agent&repository-name=deepseek-search-agent)
 
 ## 项目概述
 
@@ -129,7 +129,7 @@
 
 1. 克隆仓库到本地
 ```bash
-git clone https://github.com/yourusername/deepseek-search-agent.git
+git clone https://github.com/6uu1/deepseek-search-agent.git
 cd deepseek-search-agent
 ```
 
@@ -163,7 +163,7 @@ npm install
 
 3. 创建`.env.local`文件，添加环境变量
 ```
-REPOSITORY=yourusername/deepseek-search-agent
+REPOSITORY=6uu1/deepseek-search-agent
 GITHUB_TOKEN=your_github_token
 ```
 
