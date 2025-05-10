@@ -5,10 +5,12 @@
   "outputDirectory": ".next",
   "env": {
     "REPOSITORY": {
-      "description": "GitHub仓库，格式为：用户名/仓库名"
+      "description": "GitHub仓库，格式为：用户名/仓库名",
+      "value": ""
     },
     "GITHUB_TOKEN": {
-      "description": "GitHub个人访问令牌，需要有workflow权限"
+      "description": "GitHub个人访问令牌，需要有workflow权限",
+      "value": ""
     }
   },
   "buildEnvironment": {
