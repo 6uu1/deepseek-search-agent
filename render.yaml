@@ -11,7 +11,7 @@ services:
       - key: NODE_ENV
         value: production
       - key: REPOSITORY
-        value: ""
+        value: "your-username/your-repository-name"
         sync: false # 需要手动设置
       - key: GITHUB_TOKEN
         value: ""
